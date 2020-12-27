@@ -1,1 +1,1 @@
-# IPTV-of-TianJin-Telecom
+# 天津电信iptv组播地址
